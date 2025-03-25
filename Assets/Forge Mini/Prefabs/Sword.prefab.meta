@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ddba8724948f38947b56c4bfdcdb9040
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146524
+  packageName: Free Forge Pack
+  packageVersion: 1.0
+  assetPath: Assets/Forge Mini/Prefabs/Sword.prefab
+  uploadId: 315712
